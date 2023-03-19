@@ -1,0 +1,56 @@
+This is just a example of "How you can give commands"
+
+like for example  there is a commnad "play music" so you can say that would you "play some music for me" or the alternative of it like "I would like to listen some musics".
+
+But not all alternative will work.
+
+
+1) Saying Hii,I am Fine,who developed you
+
+2)Take a note / Make a note
+
+3)Capture my screen / Take a screen shot
+
+4)Open youtube,
+
+5) Open Google, 
+
+6) Open command prompt,
+
+7) Open chrome, 
+
+8) Open Instagram,
+
+9) Open Facebook,
+
+10) play (song name) on youtube
+
+11) What is my exact/current location
+
+12) take a photo/ take a selfie
+
+13) play music
+
+14) Open Calculator
+
+15) open news
+
+16) open file manager
+
+17) open vs code
+
+18) What is the time
+
+19) tell me some jokes
+
+20) search wikipedia for Shahrukh Khan (topic you want to search for)
+
+21) send an email
+
+22) Change brigthness
+
+23) exit/ quit/ shutdown/ goodbye Hazel
+
+
+
+
